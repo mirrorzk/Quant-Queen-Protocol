@@ -1,20 +1,17 @@
 # QuantQueen Protocol
 
-<p align="center">
-  <img src="https://github.com/mirrorzk/Quant-Queen-Protocal/blob/master/picture/logo.png" alt="logo" width="500" />
-</p>
-
+![image](https://github.com/mirrorzk/Quant-Queen-Protocol/blob/master/picture/QQB%20UI_1.png)
 
 QuantQueen Protocol is a crypto native token backed by NAV (Net Asset Value)  that represents shares in a quantitative asset portfolio. It combines a protocolized NAV mint/burn cycle, on-chain transparency and verifiability, and free secondary trading on DEXs/CEXs into a single asset. It is designed for users and developers who want to obtain returns with risk exposure while still retaining liquidity and composability.
 
-This repo opens sources and maintains QQB’s core protocol contracts, NAVOracle interface specifications, risk disclosure standards, and integration tooling, helping ecosystem partners quickly implement issuance, trading, minting, burn, verification, data indexing, and secondary financial applications.
+This repo opens sources and maintains QQB’s core protocol contracts, NAV Oracle interface specifications, risk disclosure standards, and integration tooling, helping ecosystem partners quickly implement issuance, trading, minting, burn, verification, data indexing, and secondary financial applications.
+
+### Enter to Quant Queen Protocol | Buy QQB  |  Revenue Analysis  |  Raw Strategy Data
 
 
 
-![image](https://github.com/mirrorzk/Quant-Queen-Protocol/blob/master/picture/QQB%20UI_1.png)
 
-
-### Contributors: <img src="https://github.com/mirrorzk/Quant-Queen-Protocol/blob/master/picture/matrixport.png" alt="logo" width="20" /> frank.liu @matrixport | <img src="https://github.com/mirrorzk/Quant-Queen-Protocol/blob/master/picture/binance.png" alt="logo" width="20" /> alfred.liu @binance | <img src="https://github.com/mirrorzk/Quant-Queen-Protocol/blob/master/picture/zerobase.jpeg" alt="logo" width="20" /> mirror.tang @zerobase
+### Contributors: <img src="https://github.com/mirrorzk/Quant-Queen-Protocol/blob/master/picture/matrixport.png" alt="logo" width="20" /> frank.liu@matrixport | <img src="https://github.com/mirrorzk/Quant-Queen-Protocol/blob/master/picture/binance.png" alt="logo" width="20" /> alfred.liu@binance | <img src="https://github.com/mirrorzk/Quant-Queen-Protocol/blob/master/picture/zerobase.jpeg" alt="logo" width="20" /> mirror.tang@zerobase
 
 
 ## 1. Design & Usability
